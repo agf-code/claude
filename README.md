@@ -13,6 +13,11 @@ skills and invoked via slash commands.
 Each skill lives in `.claude/skills/<name>/SKILL.md`. Naming follows the
 convention in `.claude/CLAUDE.md`: a memorable, personable name per skill.
 
+Capitalized aliases (`/Tiger`, `/Sammy`, `/Max`, `/Jarvis`) live in
+`.claude/commands/` and delegate to the lowercase skills, so invoking an agent
+still works when a mobile/desktop keyboard auto-capitalizes the first word of a
+message.
+
 **Tiger** additionally keeps persistent memory in `golf/` (your profile, round
 log, practice log, and coaching notes) so its coaching is personalized and
 builds over time.
