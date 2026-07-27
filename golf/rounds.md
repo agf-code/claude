@@ -11,4 +11,4 @@
 
 | Date       | Course        | Tees  | Score | Fairways | GIR  | Putts | U&D   | Pen | Notes                          |
 |------------|---------------|-------|-------|----------|------|-------|-------|-----|--------------------------------|
-| 2026-07-24 | Sea Island (?) | —     | 88    | —        | —    | —     | —     | —   | Ball-striking good; putting cost the round. Stats TBD. |
+| 2026-07-24 | Sea Island — Plantation | — | 88 | —        | —    | —     | —     | —   | Ball-striking good; putting cost it. **6 three-putts** — all speed (lag putts left outside gimme range, then missing the 8-footers back). |

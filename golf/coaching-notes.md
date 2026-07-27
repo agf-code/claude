@@ -4,11 +4,13 @@
 > Tiger reads this first every time and keeps it up to date. You don't edit it.
 
 ## Current #1 focus
-**Putting** — it's the one part slipping while everything else is hot. Aaron is
-striking it well T2G and shooting high-70s/low-80s, so the fastest path to
-breaking 80 consistently right now is stopping the strokes leaking on the greens
-(likely three-putts / distance control). First step: lag-putting distance
-control (see practice plan below).
+**Putting — lag speed / distance control.** CONFIRMED it's speed, not line:
+Sea Island Plantation round had **6 three-putts**, all from leaving lag putts
+outside gimme range then missing ~8-footers back. That's ~4-5 shots given away
+in one round — the single biggest lever to break 80. Line/stroke is fine; the
+whole fix is first-putt distance control (getting lag putts to finish inside 3 ft)
+plus firming up the 5-8 ft comebackers. Drills: lag ladder (20/30/40 ft) +
+around-the-clock from 4 ft. Success metric: get three-putts down to ≤2/round.
 
 ## Secondary things to revisit
 - **Short-game chunks** — dominant short-game miss is a chunk; ball-then-turf
@@ -22,13 +24,12 @@ control (see practice plan below).
   driver→3w→4i. Possible equipment conversation later.
 
 ## Observations (dated, newest first)
-- **2026-07-24** — Shot 88 (Sea Island?). Reports ball-striking was good but
-  putting was not — consistent with our read that the current leak is on the
-  greens, not the swing. 88 is above his recent high-70s/low-80s range, and with
-  good ball-striking that gap is almost entirely putting. Confirms putting as #1
-  focus. STILL NEED: is the putting issue three-putts (speed) or missed short
-  ones (line)? Asked again — pin this down next time to tune the drill. Detailed
-  stats (putts, 3-putts, FIR, GIR) not captured for this round.
+- **2026-07-24** — Shot 88, Sea Island Plantation. Ball-striking good. **6
+  three-putts, all SPEED** — lag putts left outside gimme range, then missed the
+  ~8-footers coming back. That's ~4-5 shots given away; clean up the speed and
+  this is a low-80s/high-70s round. Putting issue now fully diagnosed: distance
+  control on the first putt, not the stroke. Drill plan tuned accordingly (lag
+  ladder + around-the-clock 4-footers). Target: ≤2 three-putts/round.
 - **2026-07-19** — Onboarding. Plays ~2×/month, ranges + short-game access, no sim.
   Self-reports a genuine hot streak T2G (high-70s/low-80s) but putting has gone
   cold, which is unusual for him. Career slice off the tee has flipped to a pull
