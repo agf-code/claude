@@ -11,4 +11,4 @@
 
 | Date       | Course        | Tees  | Score | Fairways | GIR  | Putts | U&D   | Pen | Notes                          |
 |------------|---------------|-------|-------|----------|------|-------|-------|-----|--------------------------------|
-| 2026-01-01 | _Example G.C._ | White | 89 (+17) | 5/14  | 4/18 | 34    | 3/14  | 2   | _Example — blow-up on par-5s._ |
+| 2026-07-24 | Sea Island (?) | —     | 88    | —        | —    | —     | —     | —   | Ball-striking good; putting cost the round. Stats TBD. |

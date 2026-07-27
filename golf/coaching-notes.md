@@ -22,6 +22,13 @@ control (see practice plan below).
   driver→3w→4i. Possible equipment conversation later.
 
 ## Observations (dated, newest first)
+- **2026-07-24** — Shot 88 (Sea Island?). Reports ball-striking was good but
+  putting was not — consistent with our read that the current leak is on the
+  greens, not the swing. 88 is above his recent high-70s/low-80s range, and with
+  good ball-striking that gap is almost entirely putting. Confirms putting as #1
+  focus. STILL NEED: is the putting issue three-putts (speed) or missed short
+  ones (line)? Asked again — pin this down next time to tune the drill. Detailed
+  stats (putts, 3-putts, FIR, GIR) not captured for this round.
 - **2026-07-19** — Onboarding. Plays ~2×/month, ranges + short-game access, no sim.
   Self-reports a genuine hot streak T2G (high-70s/low-80s) but putting has gone
   cold, which is unusual for him. Career slice off the tee has flipped to a pull
